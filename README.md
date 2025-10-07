@@ -71,13 +71,12 @@ Deleted remote g1 branch:
 git push origin --delete g1
 6. Fork Operations
 Forked repository to new repository under account
-https://github.com/harivanshx/Oasisinfobyte
 Made changes (added text to readme.md)
 Created PR from forked repository to original repository's main branch
 Fork PR Links:
 
 
-PR #2: https://github.com/PoojaShashikantPawar/Oasisinfobyte/commit/6799b0d57f939714eef342799664f9ddb41f7553
+
 7. Advanced Unstaging Challenge
 Complex Staging Scenario
 Modified initial.txt, b2_file.txt, and added challenge.txt
